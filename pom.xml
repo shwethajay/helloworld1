@@ -33,7 +33,7 @@
       				 <muleVersion>4.2.2</muleVersion>
      				 <username>shwethaRama18</username>
       				 <password>Skandashine*8</password>
-    			  	<applicationName>Hello-world</applicationName>
+    			  	<applicationName>Helloworld</applicationName>
      				 <environment>Sandbox</environment>
      				 <workers>1</workers>
      				 <workerType>Micro</workerType>
