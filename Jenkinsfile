@@ -26,6 +26,8 @@ bat 'mvn package deploy -DmuleDeploy'
 
 }
 
+
+
 }
 
 }
